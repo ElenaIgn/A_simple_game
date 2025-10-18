@@ -1,0 +1,1 @@
+My first C# game as part of my training. Two players (player and bot) have the same stats and skills. The players take turns making a move, depending on the turn, the players' resources are spent and actions are performed. If there is not enough specific resource for the skill, the player skips his turn.
